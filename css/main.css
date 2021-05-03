@@ -1,5 +1,9 @@
-.hello{
-    color:red;
+.hello {
+    color: red;
     font-size: 25;
     text-align: center;
+}
+p {
+    color: blue;
+    font-style: 33px;
 }

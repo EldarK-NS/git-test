@@ -9,3 +9,7 @@ p {
     /* new comment */
     /* second comment */
 }
+
+.div{
+    border: 1px solid tomato;
+}
